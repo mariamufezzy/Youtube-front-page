@@ -1,0 +1,172 @@
+/* Add default margin and padding to the <body> element */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header element */
+header {
+    background-color: #fff; /* Set background color */
+    padding: 10px; /* Add padding */
+}
+
+/* Create a container for the icons and center it vertically */
+.icon-container {
+    display: flex;
+    align-items: center;
+}
+
+/* Style the navigation icon */
+#nav-icon {
+    width: 20px; /* Set the width to match YouTube's icon size */
+    height: 20px; /* Set the height to match YouTube's icon size */
+    margin-right: 10px; /* Add margin to match YouTube's spacing */
+    vertical-align: middle; /* Align vertically in the container */
+}
+
+/* Style the YouTube logo icon */
+#youtubelogo {
+    width: 100px;
+    height: 60px;
+    vertical-align: middle; /* Align vertically in the container */
+}
+
+input[type="text"] {
+    width: 400px; /* Adjust the width as needed */
+    padding: 10px; /* Add padding to the input */
+    border: 1px solid #ccc; /* Add a border */
+    border-radius: 20px; /* Add rounded corners */
+    outline: none; /* Remove the default input outline */
+    font-size: 16px; /* Set the font size */
+}
+
+button[type="submit"] {
+    background-color: #cccbcb; /* Set the background color */
+    border: none; /* Remove the border */
+    border-radius: 20px; /* Add rounded corners */
+    padding: 10px 20px; /* Add padding */
+    margin-left: -5px; /* Adjust margin to align with the input */
+    cursor: pointer; /* Change the cursor to a pointer on hover */
+}
+
+/* Style the search button icon (you'll need to replace 'icon.png' with your actual icon) */
+button[type="submit"] img {
+    width: 20px; /* Adjust the icon size */
+    height: 20px;
+    display: block; /* Remove extra space below the icon */
+}
+
+/* Adjust the header layout */
+.header {
+    display: flex;
+    align-items: center;
+}
+/* Add default margin and padding to the <body> element */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header element */
+header {
+    background-color: #fff; /* Set background color */
+    padding: 10px; /* Add padding */
+    display: flex; /* Use flex to align items horizontally */
+    justify-content: space-between; /* Add space between items */
+    align-items: center; /* Center vertically */
+}
+
+/* Style the navigation icon */
+#nav-icon {
+    width: 20px; /* Set the width to match YouTube's icon size */
+    height: 20px; /* Set the height to match YouTube's icon size */
+    margin-right: 10px; /* Add margin to match YouTube's spacing */
+}
+
+/* Style the YouTube logo icon */
+#youtubelogo {
+    width: 100px;
+    height: 60
+}
+/* Add default margin and padding to the <body> element */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header element */
+header {
+    background-color: #fff; /* Set background color */
+    padding: 10px; /* Add padding */
+    display: flex; /* Use flex to align items horizontally */
+    justify-content: space-between; /* Add space between items */
+    align-items: center; /* Center vertically */
+}
+
+/* Style the navigation icon */
+#nav-icon {
+    width: 20px; /* Set the width to match YouTube's icon size */
+    height: 20px; /* Set the height to match YouTube's icon size */
+    margin-right: 10px; /* Add margin to match YouTube's spacing */
+}
+
+/* Style the YouTube logo icon */
+#youtubelogo {
+    width: 100px;
+    height: 60
+}
+#mic {
+    width: 20px;
+    height: 20px;
+}
+#bottmic {
+    border-radius: 80px;
+    border-color: white;
+}
+.endicons img {
+    width: 40px;
+   height: 40px;
+   margin-left: 20px;
+}
+#navbar img {
+    height: 300px;
+    width: 70px;
+}
+.select button{
+    border: none;
+    border-radius: 40px;
+
+}
+
+.select button {
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px; 
+    margin: 10px; /* Add margin for spacing */
+    font-size: 16px; /* Increase font size */
+    background-color: #ebebebccc; /* Add a background color */
+    cursor: pointer;
+}
+
+.select {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+.select button:hover {
+    background-color: #999; /* Change background color on hover */
+}
+.videos{
+    position: absolute;
+}
+.videos img {
+    padding: 10px;
+    width: 360px;
+    height: 310px;
+}
+.videos .pic {
+    padding-left: 100px;
+}
+
+
